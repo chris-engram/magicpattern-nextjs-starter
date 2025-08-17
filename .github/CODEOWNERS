@@ -1,0 +1,12 @@
+# Default code owners
+* @chris-engram
+
+# Frontend
+/app/ @chris-engram
+/components/ @chris-engram
+/styles/ @chris-engram
+
+# Configuration
+/*.json @chris-engram
+/*.config.* @chris-engram
+/.github/ @chris-engram
